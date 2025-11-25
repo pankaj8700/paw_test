@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+ENV/
+env/
+*.sqlite3
+*.db
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test and coverage
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Misc
+*.bak
+*.swp
+*.tmp
